@@ -54,7 +54,7 @@ def input_year() -> int:
     converts it to an int value, and returns the int value.
     """
     # use input_int() with positional arguments and default argument values if possible
-    ...
+    
 
 
 def input_month() -> int:
